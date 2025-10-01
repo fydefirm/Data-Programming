@@ -1,0 +1,43 @@
+body {
+  background-color: #fdf6f0; /* Creamy parchment */
+  color: #5d4037; /* Rustic brown */
+  font-family: "Georgia", serif;
+}
+.navbar {
+  background-color: #8d6e63; /* Warm wood tone */
+}
+.navbar-nav .nav-link {
+  color: #fff !important;
+}
+.hero {
+  background-color: #d7ccc8; /* Soft taupe */
+  padding: 60px 20px;
+  text-align: center;
+  color: #4e342e;
+}
+.hero img {
+  border-radius: 50%;
+  margin-bottom: 20px;
+  border: 4px solid #a1887f;
+}
+.btn-resume {
+  background-color: #b5ead7;
+  color: #333;
+  border: none;
+}
+.section-title {
+  color: #6d4c41;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+.card {
+  background-color: #efebe9;
+  border: none;
+  color: #4e342e;
+}
+.footer {
+  background-color: #8d6e63;
+  padding: 20px;
+  text-align: center;
+  color: #fff;
+}
